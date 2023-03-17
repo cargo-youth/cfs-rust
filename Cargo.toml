@@ -1,0 +1,5 @@
+[package]
+name = "cfs-rust"
+version  = "0.1.0"
+authors  = ["cargo-youth <2331249337@qq.com>"]
+endition = "2018"
